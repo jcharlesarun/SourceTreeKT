@@ -5,4 +5,8 @@ Prateek pushed
 
 Black Panther Movie completed.
 
+<<<<<<< HEAD
 Black Panther 2 will be awesome!!
+=======
+Iron Heart will be in black panther 2.
+>>>>>>> develop
